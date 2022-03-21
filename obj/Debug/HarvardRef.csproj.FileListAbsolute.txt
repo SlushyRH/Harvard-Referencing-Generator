@@ -1,0 +1,8 @@
+C:\Users\Lachlan\source\repos\HarvardRef\HarvardRef\bin\Debug\HarvardRef.exe.config
+C:\Users\Lachlan\source\repos\HarvardRef\HarvardRef\bin\Debug\HarvardRef.exe
+C:\Users\Lachlan\source\repos\HarvardRef\HarvardRef\bin\Debug\HarvardRef.pdb
+C:\Users\Lachlan\source\repos\HarvardRef\HarvardRef\obj\Debug\HarvardRef.csproj.AssemblyReference.cache
+C:\Users\Lachlan\source\repos\HarvardRef\HarvardRef\obj\Debug\HarvardRef.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lachlan\source\repos\HarvardRef\HarvardRef\obj\Debug\HarvardRef.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan\source\repos\HarvardRef\HarvardRef\obj\Debug\HarvardRef.exe
+C:\Users\Lachlan\source\repos\HarvardRef\HarvardRef\obj\Debug\HarvardRef.pdb
